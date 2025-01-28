@@ -47,11 +47,11 @@
 
 ### Характеристики важные для проекта
 
-Низкий TTM - agility, testability и deployability
-Быстрая проверка гипотез - modifiability, agility, evolvability
-Система матчинга являющаяся конкурентным преимуществом - modifiability, evolvability
-Масштабирование и потенциальный DDoS - scalability или elasticity
-Разные роли - securability
+Низкий TTM - agility, testability и deployability;
+Быстрая проверка гипотез - modifiability, agility, evolvability;
+Система матчинга являющаяся конкурентным преимуществом - modifiability, evolvability;
+Масштабирование и потенциальный DDoS - scalability или elasticity;
+Разные роли - securability;
 
 Итого хар-ки к системе в целом:
 
@@ -65,5 +65,7 @@
 * securability
 
 ### Выбор архитектурного стиля:
+
+Микросервисная архитектура
 
 ![Arch style](arch_style_proc_and_cons.png)
