@@ -1,5 +1,7 @@
 ## ДЗ ко второму уроку
 
+[Ссылка на Excalidraw (а-ля Miro)](https://link.excalidraw.com/l/AKav54V8r2d/1NqBREudp0Z)
+
 ![Поддомены и bounded context'ы](subdomains_and_contexts.png)
 
 ![Domain core chart](domain_core_chart.png)
